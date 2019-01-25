@@ -1,6 +1,5 @@
 def parrot
   name = "me"
-  return name
   puts "#{name}"
 end
 

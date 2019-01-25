@@ -1,4 +1,4 @@
-def parrot
+def parrot()
   name = "me"
   puts "#{name}"
 end
